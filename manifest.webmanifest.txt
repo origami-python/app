@@ -1,0 +1,17 @@
+{
+  "name": "社会クイズ 8bit",
+  "short_name": "SocQuiz8",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#c62828",
+  "background_color": "#1b1b1b",
+  "icons": [
+    {
+      "src": "./assets/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
